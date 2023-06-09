@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piano Toy
+* source:	https://sketchfab.com/3d-models/piano-toy-d8adb7ed5a744b668965603a73cc0850
+* author:	Tunnie (https://sketchfab.com/lktung611)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piano Toy" (https://sketchfab.com/3d-models/piano-toy-d8adb7ed5a744b668965603a73cc0850) by Tunnie (https://sketchfab.com/lktung611) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

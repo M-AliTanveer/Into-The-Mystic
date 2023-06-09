@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jenga game - Inktober
+* source:	https://sketchfab.com/3d-models/jenga-game-inktober-690c9651da86496a8747cfd9752a1b1c
+* author:	Anyelo Cavazza (https://sketchfab.com/AnyeloCavazza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jenga game - Inktober" (https://sketchfab.com/3d-models/jenga-game-inktober-690c9651da86496a8747cfd9752a1b1c) by Anyelo Cavazza (https://sketchfab.com/AnyeloCavazza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

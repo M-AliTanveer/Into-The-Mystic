@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Shining elevator scene
+* source:	https://sketchfab.com/3d-models/the-shining-elevator-scene-78cf6ef6d23c49b3b82b2b96a433e581
+* author:	CK (https://sketchfab.com/xcellf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Shining elevator scene" (https://sketchfab.com/3d-models/the-shining-elevator-scene-78cf6ef6d23c49b3b82b2b96a433e581) by CK (https://sketchfab.com/xcellf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

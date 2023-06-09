@@ -1,0 +1,11 @@
+Model Information:
+* title:	Melodica
+* source:	https://sketchfab.com/3d-models/melodica-839211426c084e69a659d6b7e9a5ce85
+* author:	watermelon256 (https://sketchfab.com/watermelon256)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Melodica" (https://sketchfab.com/3d-models/melodica-839211426c084e69a659d6b7e9a5ce85) by watermelon256 (https://sketchfab.com/watermelon256) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

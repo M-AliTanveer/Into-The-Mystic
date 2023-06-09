@@ -1,0 +1,11 @@
+Model Information:
+* title:	cube runner
+* source:	https://sketchfab.com/3d-models/cube-runner-f2a7be77930f439e89306a7cbd9c5dee
+* author:	SinicalEyes (https://sketchfab.com/sinicaleyes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cube runner" (https://sketchfab.com/3d-models/cube-runner-f2a7be77930f439e89306a7cbd9c5dee) by SinicalEyes (https://sketchfab.com/sinicaleyes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

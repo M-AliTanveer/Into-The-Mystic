@@ -1,0 +1,11 @@
+Model Information:
+* title:	Funerary Altar of Cominia Tyche
+* source:	https://sketchfab.com/3d-models/funerary-altar-of-cominia-tyche-9f4933b201504af09c7238dfe9a048a0
+* author:	unhvrc (https://sketchfab.com/unhvrc)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Funerary Altar of Cominia Tyche" (https://sketchfab.com/3d-models/funerary-altar-of-cominia-tyche-9f4933b201504af09c7238dfe9a048a0) by unhvrc (https://sketchfab.com/unhvrc) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

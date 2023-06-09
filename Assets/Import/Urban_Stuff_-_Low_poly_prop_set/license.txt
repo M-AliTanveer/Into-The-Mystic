@@ -1,0 +1,11 @@
+Model Information:
+* title:	Urban Stuff - Low poly prop set
+* source:	https://sketchfab.com/3d-models/urban-stuff-low-poly-prop-set-2da7212a4fb643c98ba95217ffb13fba
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Urban Stuff - Low poly prop set" (https://sketchfab.com/3d-models/urban-stuff-low-poly-prop-set-2da7212a4fb643c98ba95217ffb13fba) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

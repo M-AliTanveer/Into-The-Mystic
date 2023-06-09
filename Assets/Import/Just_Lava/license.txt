@@ -1,0 +1,11 @@
+Model Information:
+* title:	Just Lava
+* source:	https://sketchfab.com/3d-models/just-lava-127487ca02524889b94345b2b205080e
+* author:	Rowan Design (https://sketchfab.com/rowansreid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Just Lava" (https://sketchfab.com/3d-models/just-lava-127487ca02524889b94345b2b205080e) by Rowan Design (https://sketchfab.com/rowansreid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
